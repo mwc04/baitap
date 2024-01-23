@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-       <input className='name'></input>
+      <h1>hhalas</h1>
     </div>
   )
 }
