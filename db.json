@@ -49,11 +49,6 @@
       "id": "ad1a",
       "username": null,
       "password": null
-    },
-    {
-      "id": "a9a7",
-      "username": "cuongpmz",
-      "password": "3"
     }
   ],
   "buys": [
@@ -70,6 +65,11 @@
     {
       "id": "1d04",
       "username": "duydung06",
+      "price": "3000"
+    },
+    {
+      "id": "d568",
+      "username": "vinfat",
       "price": "3000"
     }
   ]
