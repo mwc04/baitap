@@ -24,53 +24,19 @@
   "profile": {
     "name": "typicode"
   },
-  "users": [
-    {
-      "username": "abc",
-      "password": "123",
-      "id": "1"
-    },
-    {
-      "id": "4",
-      "username": "mwc04",
-      "password": "1245"
-    },
-    {
-      "id": "3",
-      "username": "mwc04",
-      "password": "123413"
-    },
-    {
-      "id": "ef81",
-      "username": "duydung06",
-      "password": "1"
-    },
-    {
-      "id": "ad1a",
-      "username": null,
-      "password": null
-    }
-  ],
+  "users": [],
   "buys": [
     {
-      "id": "1",
-      "username": "duydung06",
-      "price": "4000"
+      "id": "5ccb",
+      "username": null,
+      "price": "450",
+      "name": "iphone"
     },
     {
-      "id": "2",
-      "username": "duydung0",
-      "price": "400"
-    },
-    {
-      "id": "1d04",
-      "username": "duydung06",
-      "price": "3000"
-    },
-    {
-      "id": "d568",
-      "username": "vinfat",
-      "price": "3000"
+      "id": "d5ab",
+      "username": null,
+      "price": "320",
+      "name": "samsung"
     }
   ]
 }
